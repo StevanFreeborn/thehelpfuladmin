@@ -73,6 +73,6 @@ And here is an example of implementing a count of all in progress incidental tas
 CountIf({:Tasks::IsIncidentalAndIsInProgress}==[:True], {:item::Record Id});
 ```
 
-This type of pattern can then be repeated as many times as you need to get at all the different sums and counts you need. You can also use as a criteria as you want to different those records to include or exclude from these calculations.
+This type of pattern can then be repeated as many times as you need to get at all the different sums and counts you need. You can also use as complex a criteria as you want to identify the records to include or exclude from your calculations.
 
 I hope this is helpful and makes your job as an admin just a little easier.
