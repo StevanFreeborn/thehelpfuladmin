@@ -28,6 +28,7 @@ url: "https://stevanfreeborn.github.io"
 twitter_username: stevan_freeborn
 github_username:  StevanFreeborn
 markdown: GFM
+show_excerpts: true
 
 # Build settings
 theme: minima
